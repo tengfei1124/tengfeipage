@@ -381,12 +381,12 @@ body {
 .el1:nth-child(2) .el__bg:before {
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
-  background-image: url("../image/7.png");
+  background-image: url("../img/5.jpg");
 }
 .el2:nth-child(2) .el__bg:before {
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
-  background-image: url("../image/11.png");
+  background-image: url("../img/5.png");
 }
 .el:nth-child(3) {
   -webkit-transform: translate3d(210.41667%, 0, 0);
@@ -424,7 +424,7 @@ body {
 .el2:nth-child(3) .el__bg:before {
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
-  background-image: url("../img/4.png");
+  background-image: url("../img/4.jpg");
 }
 
 .el:nth-child(4) {
@@ -453,12 +453,12 @@ body {
 .el:nth-child(4) .el__bg:before {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
-  background-image: url("../imm/4.jpg");
+  background-image: url("../img/4.jpg");
 }
 .el2:nth-child(4) .el__bg:before {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
-  background-image: url("../image/13.png");
+  background-image: url("../img/5.jpg");
 }
 .el1:nth-child(4) .el__bg:before {
   -webkit-transition-delay: 0.3s;
@@ -497,7 +497,7 @@ body {
 .el:nth-child(5) .el__bg:before {
   -webkit-transition-delay: 0.4s;
           transition-delay: 0.4s;
-  background-image: url("../image/8.png");
+  background-image: url("../img/5.jpg");
 }
 .el1:nth-child(5) .el__bg:before {
   -webkit-transition-delay: 0.4s;
